@@ -1,0 +1,5 @@
+/common/model/*.go
+
+go.sum
+
+.DS_Store
